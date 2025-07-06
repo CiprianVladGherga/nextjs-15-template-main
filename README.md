@@ -46,7 +46,7 @@ This boilerplate is designed to give you a production-ready foundation with ever
 ### Create a new project using this boilerplate
 
 ```bash
-git clone https://github.com/CiprianVladGherga/nextjs-15-template.git
+git clone https://github.com/CiprianVladGherga/nextjs-15-template-main.git
 ```
 
 ### Development
